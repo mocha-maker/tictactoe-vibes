@@ -2,8 +2,26 @@
 Vibe coded Tic Tac Toe Game with a brief write up of the AI Algorithm. The model used and the prompt to generate it.
 
 # Tech Stack
-HTML/JS
-AI Model used: GLM-5 Turbo
+- HTML/JS
+- AI Model used: GLM-5 Turbo
+
+# Prompt
+```
+Create a Tic Tac Toe game against an AI. 
+
+Design:
+- Techy, gradients
+- Dark and Light mode
+- at least three themes
+
+Key features:
+- User can name themselves before starting
+- it should be powered by an AI with different levels of difficulty. 
+- Scores should be recorded
+- Scores can be deleted or fully cleared
+- There should be a tracked win/draw/loss board 
+
+```
 
 # AI Difficulties Explained
 The AI is implemented as three distinct strategies selected by difficulty, all contained in the getAIMove() function. Here's how each level works:
