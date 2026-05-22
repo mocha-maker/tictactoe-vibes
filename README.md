@@ -1,6 +1,10 @@
 # tictactoe-vibes
 Vibe coded Tic Tac Toe Game with a brief write up of the AI Algorithm. The model used and the prompt to generate it.
 
+# Tech Stack
+HTML/JS
+AI Model used: GLM-5 Turbo
+
 # AI Difficulties Explained
 The AI is implemented as three distinct strategies selected by difficulty, all contained in the getAIMove() function. Here's how each level works:
 
